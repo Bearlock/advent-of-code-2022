@@ -1,5 +1,5 @@
 # Advent of Code 2022
-![brilliantgrinch](brillygrinch)
+![brilliantgrinch][brillygrinch]
 
 Hey there folks; this is where I'm keeping my Advent of Code attempts. Hopefully I get some good work done. 
 
